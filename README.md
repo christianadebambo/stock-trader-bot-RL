@@ -2,8 +2,6 @@
 
 The Stock Trading Bot is an implementation of a stock trading agent using reinforcement learning with Deep Q-Learning. 
 
-The code allows you to accurately classify images into one of the ten predefined classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, or truck.
-
 ## Requirements
 
 - Python 3+
